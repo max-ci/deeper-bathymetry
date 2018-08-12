@@ -1,0 +1,9 @@
+### CodeKit ###
+# General CodeKit files to ignore
+config.codekit
+config.codekit3
+/min
+
+### CodeKit Patch ###
+*/codekit-config.json
+.codekit-cache
