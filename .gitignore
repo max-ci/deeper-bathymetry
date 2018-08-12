@@ -3,6 +3,7 @@
 config.codekit
 config.codekit3
 /min
+/ck
 
 ### CodeKit Patch ###
 */codekit-config.json
