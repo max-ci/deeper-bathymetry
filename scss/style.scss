@@ -106,6 +106,9 @@ body {
 }
 .chart {
   position: relative;
+  max-width: 700px;
+  max-height: 700px;
+  overflow: auto;
 }
 .chart-close {
   font-size: 1.6rem;
