@@ -15,4 +15,4 @@ This library allows you to show bathymetry on Google Maps based on Deeper sonar 
 1. Download SQLite file from this repo (or use your own if you have one).
 2. Go to [GitHub page] and add that file to file input.
 
-[GitHub page]: <https://makshh.github.io/deeper-bathymetry/>
+[GitHub page]: <https://max-ci.github.io/deeper-bathymetry/>
