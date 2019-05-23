@@ -5,7 +5,7 @@ This library allows you to show bathymetry on Google Maps based on Deeper sonar 
 ## Techiques and libraries used in this project
 
 * HTML/CSS/JS/SCSS
-* SQLite (using sql.js library)
+* SQLite (using sql.js)
 * Google Maps API (using gmaps.js library)
 * File API
 * Plotly charts
